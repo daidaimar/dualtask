@@ -1,0 +1,10 @@
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\bin\Debug\dualtask_cs.exe.config
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\bin\Debug\dualtask_cs.exe
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\bin\Debug\dualtask_cs.pdb
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.csprojResolveAssemblyReference.cache
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.Properties.Resources.resources
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.csproj.GenerateResource.Cache
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.exe
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.pdb
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.SettingForm.resources
+c:\users\shun\documents\visual studio 2013\Projects\dualtask_cs\dualtask_cs\obj\Debug\dualtask_cs.Experiment.resources
